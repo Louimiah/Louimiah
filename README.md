@@ -11,7 +11,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/Louimiah/threat-hunt-scenario-tor/blob/main/README.md)**
-- **[Cyber Range Live Threat Hunt (Port of Entry)](https://github.com/Louimiah/threat-hunt-scenario-tor/blob/main/README.md)**
+- **[Cyber Range Live Threat Hunt (Port of Entry)](https://github.com/Louimiah/Cyber-Range-Live-Threat-Hunt/tree/main)**
 
 <hr/>
 
