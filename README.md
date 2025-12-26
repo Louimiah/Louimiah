@@ -2,7 +2,7 @@
 
 I’m deeply committed to cybersecurity and love learning. These projects showcase hands-on threat hunting, vulnerability remediation, and real incident response work that mirrors what happens in live environments. Feel free to explore them and see the effort I’ve put into building and strengthening effective security solutions.
 
-## [<img width="64" height="64" alt="ChatGPT Image Dec 25, 2025, 07_21_13 PM" src="https://github.com/user-attachments/assets/a69cff1e-9c82-4185-8a67-dd8bb93e5d57" />Vulnerability Management]
+## <img width="64" height="64" alt="ChatGPT Image Dec 25, 2025, 07_21_13 PM" src="https://github.com/user-attachments/assets/a69cff1e-9c82-4185-8a67-dd8bb93e5d57" />Vulnerability Management
 
 - **[Vulnerability Management Program Implementation](https://github.com/Louimiah/Vulnerability-Management-Program)**
 - **[Programmatic Vulnerability Remediations (PowerShell)](https://github.com/Louimiah/Programmatic-Vulnerability-Remediations)**
