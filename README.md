@@ -14,7 +14,7 @@ I’m deeply committed to cybersecurity and love learning. These projects showca
 
 <hr/>
 
-## <img width="64" height="64" alt="connect with me" src="https://github.com/user-attachments/assets/07e13fdc-0f1a-48f7-aab5-553f4cae044e" />Connect With Me
+## 🌐Connect With Me
 
 [<img align="left" alt="___________ | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="___________ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
