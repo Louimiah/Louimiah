@@ -14,7 +14,7 @@ I’m deeply committed to cybersecurity and love learning. These projects showca
 
 <hr/>
 
-## 🤳 Connect With Me
+## <img width="128" height="86" alt="ChatGPT Image Dec 25, 2025, 07_45_43 PM" src="https://github.com/user-attachments/assets/11067f91-217a-46bd-b243-95bf0d0cbbf9" />Connect With Me
 
 [<img align="left" alt="___________ | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="___________ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
