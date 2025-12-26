@@ -1,7 +1,6 @@
 # <a href="https://www.linkedin.com/in/louimiah-lavinier/">Louimiah Lavinier</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
-
+I’m deeply committed to cybersecurity and love learning. These projects showcase hands-on threat hunting, vulnerability remediation, and real incident response work that mirrors what happens in live environments. Feel free to explore them and see the effort I’ve put into building and strengthening effective security solutions.
 
 ## ⚠️ Vulnerability Management Projects
 
